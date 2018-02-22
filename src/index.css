@@ -1,0 +1,22 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #DDD;
+}
+
+.container {
+  max-width: 820px;
+  padding: 20px;
+}
+
+.bodyContainer {
+  padding: 20px;
+}
+
+.App {
+  background-color: #FFF;
+  margin: auto;
+  padding: 0px;
+}
